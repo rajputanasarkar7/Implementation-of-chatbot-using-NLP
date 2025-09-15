@@ -56,7 +56,7 @@ To run the chatbot application, execute the following command:
 streamlit run app.py
 ```
 
-Once the application is running, you can interact with the chatbot through the web interface. Type your message in the input box and press Enter to see the chatbot's response.
+Once the application is running, we can interact with the chatbot through the web interface. Type your message in the input box and press Enter to see the chatbot's response.
 
 ---
 
@@ -88,3 +88,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Replace `<repository-url>` and `<repository-directory>` with the actual URL of your repository and the name of the directory where the project is located. Adjust any sections as necessary to better fit your project's specifics.
+
